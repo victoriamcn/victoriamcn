@@ -1,10 +1,9 @@
 ### Hello there! :wave: I'm Victoria.
 
-But my friends call me Vic.
+
 
 :round_pushpin: South Carolina
 
-:mortar_board: Bachelor of Arts in Mass Communications
 
 ### :telescope: Currently:
 I’m finishing up [Georgia Tech's Full Stack Web Development Certification](https://pe.gatech.edu/courses/georgia-tech-coding-boot-camp) program :honeybee:. In our current module, we are covering `MERN` stack while diving deeper into `React` and `GraphQL`.
