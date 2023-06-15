@@ -4,24 +4,21 @@
 
 :round_pushpin: South Carolina
 
-Schedule a 1:1 with me via [Calendly](https://calendly.com/victoriacodes/30min).
-
-
 ### :telescope: Currently:
 
 I’m finishing up [Georgia Tech's Full Stack Web Development Certification](https://pe.gatech.edu/courses/georgia-tech-coding-boot-camp) program :honeybee:. In our current module, we are covering `MERN` stack while diving deeper into `React` and `GraphQL`.
 
 - My last project, [LaborHub](https://github.com/jsnicholas/LaborHub), includes: `MySQL`, `bcrypt`, `express`, `sequelize`, and `Handlebars.js`.
 
-- My current [deployed portfolio](https://victoriamcn.github.io/Portfolio/) was created with `HTML` and `CSS`.
-    - :hammer: A more [dynamic porfolio](https://github.com/victoriamcn/React-Portfolio/tree/main) is under construction.
-      -  Will include: `React`, `JavaScript`, and `Bulma.css` with custom `CSS`.
+- My current [deployed portfolio]([https://victoriamcn.github.io/Portfolio/](https://victoriamcn.github.io/React-Portfolio/#about) includes: `React`, `JavaScript`, and `Bulma.css` with custom `CSS`.
+    - :hammer: Repository: [dynamic porfolio](https://github.com/victoriamcn/React-Portfolio/tree/main).
 
 ### :milky_way: Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-mcnorrill/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/vmcnorrill/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/torilizabeth95)
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)]()
 
 ### :tv: Coming Soon...
 
