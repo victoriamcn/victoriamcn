@@ -1,4 +1,4 @@
-![header image](./vm (1).png)
+![header image]([./vm (1).png](https://github.com/victoriamcn/victoriamcn/blob/main/vm%20(1).png?raw=true))
 
 ### Hello there! :wave: I'm Victoria.
 
