@@ -4,6 +4,8 @@
 
 :round_pushpin: South Carolina
 
+Schedule a 1:1 with me via [Calendly](https://calendly.com/victoriacodes/30min).
+
 
 ### :telescope: Currently:
 
