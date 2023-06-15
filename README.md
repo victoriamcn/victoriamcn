@@ -1,3 +1,5 @@
+![header image](./vm (1).png)
+
 ### Hello there! :wave: I'm Victoria.
 
 :round_pushpin: South Carolina
