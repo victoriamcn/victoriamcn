@@ -1,4 +1,4 @@
-![headerimage](https://github.com/victoriamcn/victoriamcn/blob/main/vm%20(1).png?raw=true)
+![headerimage](https://github.com/victoriamcn/victoriamcn/blob/main/vm%20(2).png?raw=true)
 
 ### Hello there! :wave: I'm Victoria.
 
