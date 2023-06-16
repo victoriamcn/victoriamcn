@@ -10,8 +10,7 @@ I’m finishing up [Georgia Tech's Full Stack Web Development Certification](htt
 
 - My last project, [LaborHub](https://github.com/jsnicholas/LaborHub), includes: `MySQL`, `bcrypt`, `express`, `sequelize`, and `Handlebars.js`.
 
-- My current [deployed portfolio]([https://victoriamcn.github.io/Portfolio/](https://victoriamcn.github.io/React-Portfolio/#about) includes: `React`, `JavaScript`, and `Bulma.css` with custom `CSS`.
-    - :hammer: Repository: [dynamic porfolio](https://github.com/victoriamcn/React-Portfolio/tree/main).
+- My current [deployed portfolio](https://victoriamcn.github.io/React-Portfolio/#about) includes: `React`, `JavaScript`, and `Bulma.css` with custom `CSS`. :hammer: Repository: [dynamic porfolio](https://github.com/victoriamcn/React-Portfolio/tree/main).
 
 ### :milky_way: Let's Connect:
 
