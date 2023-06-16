@@ -6,11 +6,14 @@
 
 ### :telescope: Currently:
 
-I’m finishing up Georgia Tech's [Full Stack Web Development Certification](https://pe.gatech.edu/courses/georgia-tech-coding-boot-camp) program :honeybee:. In our current module, we are covering `MERN` stack while diving deeper into `React` and `GraphQL`.
+- I'm diving deep into learningt the `MERN` stack
+  - `React``GraphQL``JWT`
 
-- My last project, [LaborHub](https://github.com/jsnicholas/LaborHub), includes: `MySQL`, `bcrypt`, `express`, `sequelize`, and `Handlebars.js`.
+- Featured: [LaborHub](https://github.com/jsnicholas/LaborHub)
+  - `MySQL``bcrypt``express``sequelize``Handlebars.js`.
 
-- My [deployed portfolio](https://victoriamcn.github.io/React-Portfolio/#about) includes: `React`, `JavaScript`, and `Bulma.css` with custom `CSS`. :hammer: [Repository](https://github.com/victoriamcn/React-Portfolio/tree/main).
+- My [portfolio](https://victoriamcn.github.io/React-Portfolio/#about)
+  - `React``JavaScript``Bulma.css``Custom CSS`.
 
 ### :milky_way: Let's Connect:
 
