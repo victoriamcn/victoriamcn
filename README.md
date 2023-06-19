@@ -7,13 +7,13 @@
 ### :telescope: Currently:
 
 - I'm diving deep into learningt the `MERN` stack
-  - `React``GraphQL``JWT`
+  - `React`, `GraphQL`, `JWT`
 
 - Featured: [LaborHub](https://github.com/jsnicholas/LaborHub)
-  - `MySQL``bcrypt``express``sequelize``Handlebars.js`.
+  - `MySQL`, `bcrypt`, `express`, `sequelize`, `Handlebars.js`.
 
 - My [portfolio](https://victoriamcn.github.io/React-Portfolio/#about)
-  - `React``JavaScript``Bulma.css``Custom CSS`.
+  - `React`, `JavaScript`, `Bulma.css`, `Custom CSS`.
 
 ### :milky_way: Let's Connect:
 
