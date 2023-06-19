@@ -19,7 +19,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-mcnorrill/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/vmcnorrill/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/torilizabeth95)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/user/torilizabeth95](https://open.spotify.com/playlist/7hiRnR4YEJSG3X2MyPvGL6?si=be9ee7f5841a41c2))
 
 ### :tv: Coming Soon...
 
