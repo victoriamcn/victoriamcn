@@ -7,7 +7,7 @@
 ### :telescope: Currently:
 
 - I'm diving deep into learningt the `MERN` stack
-  - `React`, `GraphQL`, `JWT`
+  - `React`, `GraphQL`, `JWT`, `State`
 
 - Featured: [LaborHub](https://github.com/jsnicholas/LaborHub)
   - `MySQL`, `bcrypt`, `express`, `sequelize`, `Handlebars.js`.
