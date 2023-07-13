@@ -1,8 +1,6 @@
 ![headerimage](https://github.com/victoriamcn/victoriamcn/blob/main/vm%20(2).png?raw=true)
 
-## Hello there! I'm Victoria.
-
-View my [Portfolio](http://www.victoriamcodes.com/).
+## Hello there! View my [Portfolio](http://www.victoriamcodes.com/).
 
 ### :telescope: Featured Projects:
 [OCDetour](https://ocdetour-4111fd1eff32.herokuapp.com/) is an app to help delay compulsions for people with OCD.
