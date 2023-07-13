@@ -6,12 +6,15 @@ View my [Portfolio](http://www.victoriamcodes.com/).
 
 ### :telescope: Featured Projects:
 [OCDetour](https://ocdetour-4111fd1eff32.herokuapp.com/) is an app to help delay compulsions for people with OCD.
+
 `MongoDB`, `React`, `JavaScript`, `MERN`, `express`, `Apollo/GraphQL`, `JWT`, `Tailwind CSS` with `Daisy UI`
 
-[LaborHub](https://github.com/jsnicholas/LaborHub)  is an app that allows users to share their wages, demographics data, and check if dues are paid
+[LaborHub](https://github.com/jsnicholas/LaborHub)  is an app that allows users to share their wages, demographics data, and check if dues are paid.
+
 `MySQL`, `bcrypt`, `express`, `sequelize`, `Handlebars.js`, `JavaScript`, `Spectre.css`
 
 [NightOwl](https://victoriamcn.github.io/NightOwl/) alows users to discover nearby events and restaurants based on input selections, such as city, date, and event types.
+
 `JavaScript`, `LocalStorage`, `Dayjs`, `Bootstrap`
 
 ### :milky_way: Let's Connect:
