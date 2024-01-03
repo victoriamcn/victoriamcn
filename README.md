@@ -4,19 +4,20 @@
 
 ### :telescope: Featured Projects:
 **Currently**: [BirdieChatApp](https://github.com/victoriamcn/BirdieChatApp) is a messenger app and was forked from [WebDevSimplified](https://github.com/WebDevSimplified/Whatsapp-Clone).
-`socket.io`, `Express`, `JavaScript`, 
+
+`socket.io`, `React.js`, `Express`
 
 [OCDetour](https://ocdetour-4111fd1eff32.herokuapp.com/) is an app to help delay compulsions for people with OCD.
 
-`MongoDB`, `Apollo/GraphQL`, `React`, `Express`,  `JWT`, `JavaScript`, `Tailwind CSS` with `Daisy UI`
+`MongoDB`, `Apollo/GraphQL`, `React.js`, `Express,js`,  `Tailwind CSS` with `Daisy UI`
 
 [LaborHub](https://github.com/jsnicholas/LaborHub)  is an app that allows users to share their wages, demographics data, and check if dues are paid.
 
-`MySQL`, `bcrypt`, `express`, `sequelize`, `Handlebars.js`, `JavaScript`, `Spectre.css`
+`MySQL`, `Express`, `Sequelize`, `Handlebars.js`, `Spectre.css`
 
 [NightOwl](https://victoriamcn.github.io/NightOwl/) alows users to discover nearby events and restaurants based on input selections, such as city, date, and event types.
 
-`JavaScript`, `LocalStorage`, `Dayjs`, `Bootstrap`
+`JavaScript`, `Dayjs`, `Bootstrap`
 
 ### :milky_way: Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-mcnorrill/)
