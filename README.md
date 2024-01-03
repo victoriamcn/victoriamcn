@@ -3,9 +3,12 @@
 ## Hello there! View my [Portfolio](https://www.victoriamcodes.com/).
 
 ### :telescope: Featured Projects:
+**Currently**: [BirdieChatApp](https://github.com/victoriamcn/BirdieChatApp) is a messenger app and was forked from [WebDevSimplified](https://github.com/WebDevSimplified/Whatsapp-Clone).
+`socket.io`, `Express`, `JavaScript`, 
+
 [OCDetour](https://ocdetour-4111fd1eff32.herokuapp.com/) is an app to help delay compulsions for people with OCD.
 
-`MongoDB`, `React`, `JavaScript`, `MERN`, `express`, `Apollo/GraphQL`, `JWT`, `Tailwind CSS` with `Daisy UI`
+`MongoDB`, `Apollo/GraphQL`, `React`, `Express`,  `JWT`, `JavaScript`, `Tailwind CSS` with `Daisy UI`
 
 [LaborHub](https://github.com/jsnicholas/LaborHub)  is an app that allows users to share their wages, demographics data, and check if dues are paid.
 
